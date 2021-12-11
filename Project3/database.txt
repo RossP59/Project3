@@ -1,0 +1,14 @@
+
+2
+HP.Laptop
+Laptop
+HP.windows.laptop
+2019
+HP
+12
+Def
+192.168.1.1
+room4
+12.10.20
+3.years
+.
